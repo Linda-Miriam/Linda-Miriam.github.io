@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://linda-miriam.github.io/sitemap.xml

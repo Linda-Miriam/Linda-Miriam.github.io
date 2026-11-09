@@ -1,0 +1,6 @@
+# Only the site itself is published: index.html, assets/, robots.txt, sitemap.xml
+.DS_Store
+.claude/
+*.docx
+/*.jpg
+/*.png
